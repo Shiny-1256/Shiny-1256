@@ -17,9 +17,6 @@
   <a href="mailto:shiny1256u@gmail.com">
     <img src="https://img.shields.io/badge/Email-588157?style=for-the-badge&logo=gmail&logoColor=E9D8A6" alt="Email" />
   </a>
-  <a href="https://github.com/Shiny-1256">
-    <img src="https://img.shields.io/badge/GitHub-3A5A40?style=for-the-badge&logo=github&logoColor=E9D8A6" alt="GitHub" />
-  </a>
 <a href="https://portfolio-r267.onrender.com/">
   <img src="https://img.shields.io/badge/Portfolio-588157?style=for-the-badge&logo=codeforces&logoColor=E9D8A6" alt="Portfolio" />
 </a>
@@ -53,11 +50,8 @@ Passionate about building AI-powered applications, scalable web solutions, and i
     </td>
   </tr>
 </table>
-
 <br/>
-
 ---
-
 ## 🛠️ Tech Stack
 
 <table width="100%">
@@ -287,9 +281,6 @@ Passionate about building AI-powered applications, scalable web solutions, and i
   <a href="https://github.com/Shiny-1256">
     <img src="https://img.shields.io/badge/GitHub-Shiny--1256-3A5A40?style=for-the-badge&logo=github&logoColor=E9D8A6" alt="GitHub" />
   </a>
-
   <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=Shiny-1256&color=588157&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
