@@ -41,7 +41,7 @@ Passionate about building AI-powered applications, scalable web solutions, and i
   <tr>
     <td width="60%">
       <ul>
-        <li>🎓 <strong>Education:</strong> B.Tech CSE (Data Science) @ VIT Chennai <i>(CGPA: 8.49)</i></li>
+        <li>🎓 <strong>Education:</strong> B.Tech CSE (Data Science) @ VIT Chennai</li>
         <li>💼 <strong>Experience:</strong> AI & ML Intern @ <b>Yazaki</b> (Computer Vision Pipeline for Industrial Safety)</li>
         <li>🏆 <strong>Achievements:</strong> Winner @ <b>GLITCHCON Hackathon</b> & <b>Gen-AI UI/UX Hackathon</b></li>
         <li>🌱 <strong>Learning & Exploring:</strong> Advanced MLOps, Distributed Systems & Cloud Architecture (AWS)</li>
