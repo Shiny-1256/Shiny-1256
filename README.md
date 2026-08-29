@@ -20,7 +20,7 @@
   <a href="https://github.com/Shiny-1256">
     <img src="https://img.shields.io/badge/GitHub-3A5A40?style=for-the-badge&logo=github&logoColor=E9D8A6" alt="GitHub" />
   </a>
-  <a href="https://github.com/Shiny-1256?tab=repositories">
+  <a href="[https://github.com/Shiny-1256?tab=repositories](https://portfolio-r267.onrender.com/)">
     <img src="https://img.shields.io/badge/Portfolio-588157?style=for-the-badge&logo=codeforces&logoColor=E9D8A6" alt="Portfolio" />
   </a>
 
